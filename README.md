@@ -1,5 +1,3 @@
-# QualityRemnant2
- 
 # 3rd Party Mods
 
 - Allow Asset Mods - https://www.nexusmods.com/remnant2/mods/2
