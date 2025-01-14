@@ -8,4 +8,4 @@
 
 # how to install
 
-- GIT CLONE this repo into the root folder of the game
+- GIT CLONE this repo into the root folder of the game or download the zip and extract it into the root folder of the game
